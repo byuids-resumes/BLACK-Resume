@@ -2,14 +2,13 @@
 layout: cv
 title: Ben Black's Resume
 ---
-# Ben Black
+# Ben Black 
 Computer Science student at BYU-I, interested in machine learning and AI
 
 <div id="webaddress">
 <a href="mailto:benblack@byui.edu">benblack@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/benjamin-black-b710551ab/">LinkedIn</a>
+| <a href="https://benblack1.github.io/BLACK-Resume/index.html">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
