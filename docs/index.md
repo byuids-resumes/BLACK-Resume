@@ -19,7 +19,8 @@ Computer Science student at BYU-I, interested in machine learning and AI
 `Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- 4.0 GPA
+- Four year, full tuition scholarship
 
 
 ## Related Experience
@@ -34,13 +35,6 @@ __Melaleuca, Inc__, Idaho Falls, ID
 - Analyzed user needs and requirements 
 - Improved existing software solutions
 - Coded SQL scripts to manage customer databases
-
-`September 2021 - December 2021`
-__Hill Air Force Base__, Clearfield, UT
-
-- Designed and coded software solutions
-- Worked in teams to design and implement solutions
-- Improved existing code
 
 ### Work Experience
 
@@ -72,7 +66,7 @@ __Password Generator__, Application developed in Java
 __NSDA Debate Timer__, App published on the Google Play Store
 
 `2017` 
-__Brownie Points Counter__, App published ont the Google Play Store
+__Brownie Points Counter__, App published on the Google Play Store
 
 ### Languages
 Java, C++, C#, SQL, XML, Python, HTML, CSS, Clojure, JavaScript, XAML, CSHTML
