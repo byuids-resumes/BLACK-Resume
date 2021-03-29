@@ -2,7 +2,7 @@
 layout: cv
 title: Ben Black's Resume
 ---
-# Ben Black
+# Ben Black 
 Computer Science student at BYU-I, interested in machine learning and AI
 
 <div id="webaddress">
